@@ -2,7 +2,6 @@
 Fancy wraper class for ideographic character handling in terminal based displays. Especially so called half-width and full-width Katakana, Hiragana and Romanji characters.
 
 ## Installation
-Use setup.py
 ```shell
 python3 -m pip install "git+https://git.ars-virtualis.org/yul/fxideo@master"
 ```
