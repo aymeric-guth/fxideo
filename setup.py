@@ -5,7 +5,7 @@ setup(
     name="fxideo",
     version="0.0.1",
     license="GPLv2+",
-    url="https://git.ars-virtualis.org/yul/fxideo",
+    url="https://github.com/aymeric-guth/fxideo",
     description="string wrapper for ideographic characters handling in terminal based display",
     author_email="aymeric.guth@protonmail.com",
     author="Aymeric Guth",
